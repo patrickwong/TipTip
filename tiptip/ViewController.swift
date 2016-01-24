@@ -33,6 +33,15 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
+    
+    override func canBecomeFirstResponder() -> Bool {
+        return true
+    }
+    
+    override func motionEnded(motion: UIEventSubtype, withEvent event: UIEvent?) {
+        billField.text = ""
+        fadeOut()
+    }
 
     @IBAction func onEditingChanged(sender: AnyObject) {
         billAmount = NSString(string: billField.text!).doubleValue
