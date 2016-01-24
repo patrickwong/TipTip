@@ -31,7 +31,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challenges encountered:
+Still learning Auto Layout quirks. Took awhile to figure out that I needed to uncheck "constrain to margins" in Auto Layout to layout exactly to the screen.
 
 ## License
 
