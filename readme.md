@@ -20,7 +20,7 @@ The following **additional** features are implemented:
 
 * [x] Auto Layout
 * [x] Shake gesture to clear text fields
-* [x] Dark keyboard]
+* [x] Dark keyboard
 * [x] Clear textfield
 
 ## Video Walkthrough
