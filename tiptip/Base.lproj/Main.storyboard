@@ -115,8 +115,11 @@
                     </view>
                     <connections>
                         <outlet property="billField" destination="8ZH-o2-bOQ" id="NGg-pM-7Dr"/>
+                        <outlet property="divider" destination="4gS-i3-gEI" id="vsY-hn-85A"/>
                         <outlet property="tipControl" destination="VP3-9O-4ux" id="Ojz-rr-58P"/>
+                        <outlet property="tipHeaderLabel" destination="gix-cq-vIx" id="4di-5G-nzA"/>
                         <outlet property="tipLabel" destination="KUk-AY-ij6" id="Nla-Fj-UrH"/>
+                        <outlet property="totalHeaderLabel" destination="ceV-U2-bNX" id="hKK-xZ-0Gg"/>
                         <outlet property="totalLabel" destination="X0x-ME-M3r" id="22s-J6-baE"/>
                     </connections>
                 </viewController>
