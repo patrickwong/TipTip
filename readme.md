@@ -4,7 +4,7 @@
 
 Submitted by: **Patrick Wong**
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
@@ -13,19 +13,19 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 * [x] Custom font
-* [x ] UI animations - Alpha fade
+* [x] UI animations - Alpha fade
 * [x] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
 * [x] Auto Layout
-* [x] Shake gesture to clear textfields
+* [x] Shake gesture to clear text fields
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='/course_images/ios_for_designers/name%20of%20your%20file%20in%20the%20repo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<!-- <img src='/course_images/ios_for_designers/name%20of%20your%20file%20in%20the%20repo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
